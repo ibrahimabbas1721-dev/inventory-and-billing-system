@@ -1,0 +1,4 @@
+admin,admin123,admin
+cashier,cashier123,cashier
+Ibrahim,Ibra123,admin
+Umer,Umer123,cashier

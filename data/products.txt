@@ -1,0 +1,18 @@
+ID: 1
+Name:
+bread
+Price: 45
+Quantity: 0
+----
+ID: 2
+Name:
+butter
+Price: 100
+Quantity: 9
+----
+ID: 3
+Name:
+egg
+Price: 12
+Quantity: 4
+----

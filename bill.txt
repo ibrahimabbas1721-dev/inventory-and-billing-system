@@ -1,0 +1,37 @@
+=== BILL ===
+bread x2 = 90
+butter x1 = 100
+egg x4 = 48
+Total: 238
+
+=== BILL ===
+bread x8 = 360
+egg x12 = 144
+Total: 504
+
+=== BILL ===
+bread x10 = 700
+Total: 700
+
+=== BILL ===
+bread x2 = 90
+Egg x4 = 120
+Total: 210
+
+=== BILL ===
+Egg x6 = 180
+Total: 180
+
+=== BILL ===
+bread x10 = 450
+Egg x10 = 300
+Total: 750
+
+=== BILL ===
+bread x1 = 45
+Total: 45
+
+=== BILL ===
+Milk x2 = 340
+Total: 340
+
