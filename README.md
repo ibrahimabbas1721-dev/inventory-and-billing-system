@@ -90,3 +90,7 @@ g++ main.cpp auth.cpp inventory.cpp billingSystem.cpp -o billingSystem
 **Ibrahim** — CS Student | Aspiring Software Developer
 
 > *"Building real-world projects to go from student to placement-ready developer."*
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
