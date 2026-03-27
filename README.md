@@ -58,7 +58,7 @@ billingSystem/
 
 ## 🚀 How To Run
 ```bash
-git clone https://github.com/your-username/billing-system.git
+git clone https://github.com/ibrahimabbas1721-dev/inventory-and-billing-system.git
 cd billing-system
 g++ main.cpp auth.cpp inventory.cpp billingSystem.cpp -o billingSystem
 ./billingSystem
